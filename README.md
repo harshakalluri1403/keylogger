@@ -17,7 +17,7 @@ pip install pynput tkinter
 2. Navigate to the project directory.
 3. Run the Python script:
 ```
-python a.py
+python C1.py
 ```
 The keylogger captures keystrokes using pynput's keyboard.Listener.
 Keystrokes are processed and displayed in a tkinter text widget.
@@ -25,4 +25,4 @@ The log updates every second (1000ms) to show the latest keystrokes.
 ### Notes
 The application displays special keys (like Key.shift, Key.space) along with regular text input.
 Be cautious when using or distributing keyloggers, as they may have ethical and legal implications depending on the jurisdiction.
-![image alt]()
+![image alt](https://github.com/harshakalluri1403/keylogger/blob/6c8c628492ab7ed833625416a1f0daeabe927c14/zzzzzz.png)
