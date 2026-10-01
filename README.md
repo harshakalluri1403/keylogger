@@ -8,6 +8,7 @@
 ![pynput](https://img.shields.io/badge/pynput-keyboard%20listener-6f42c1)
 ![GUI](https://img.shields.io/badge/GUI-tkinter-FF6F00)
 ![Purpose](https://img.shields.io/badge/purpose-education%20only-2ea44f)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 </div>
 
@@ -83,3 +84,8 @@ listener is global) and watch the text appear. Close the window to stop.
 ## Tech stack
 
 Python · [pynput](https://pynput.readthedocs.io/) · tkinter (standard library)
+
+## License
+
+Released under the [MIT License](LICENSE). Provided for **education only** — see
+the usage disclaimer near the top before running.
